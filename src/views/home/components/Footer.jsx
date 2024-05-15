@@ -50,7 +50,7 @@ export function Footer() {
             <Link
               href=""
               isExternal
-              fontSize={"0.8rem"}
+              fontSize={"0.7rem"}
               display="flex"
               alignItems="center"
               justifyContent="center"

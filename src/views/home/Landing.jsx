@@ -147,12 +147,7 @@ export function Landing() {
               </Text>{" "}
             </Heading>
             <Text fontSize={{ base: "md", lg: "lg" }} color={"gray.200"}>
-              Our Machine learning algorithm is so good that it’s even illegal
-              in some countries. Join us to use our barelly legal algorithm that
-              is actually a group of interns that work on our basement. We have
-              a job for you, no matter your background or previous experience.
-              Is sending random memes through chat your only skill? That’s ok,
-              we got you, our Rock Star Meme Curator role is here for you.
+             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto exercitationem sed officia. Recusandae repudiandae doloremque accusantium earum molestiae enim est ad ea in quibusdam omnis neque consequuntur dignissimos, dolores sapiente!
             </Text>
           </Stack>
         </Flex>

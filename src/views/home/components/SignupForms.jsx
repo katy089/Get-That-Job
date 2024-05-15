@@ -404,7 +404,7 @@ export function SignupForm() {
           />
         </div>
         {cvFile && (
-          <Tag colorScheme={"green"} w="100px" mt="-2rem">
+          <Tag colorScheme={"green"} w="200px" mt="-2rem">
             uploaded ✅
           </Tag>
         )}
