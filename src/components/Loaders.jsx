@@ -5,7 +5,7 @@ export const loaderView = (
     <Spinner
       thickness="4px"
       speed="0.65s"
-      emptyColor="gray.210"
+      emptyColor="gray.310"
       color="blue.500"
       size="xl"
     />
